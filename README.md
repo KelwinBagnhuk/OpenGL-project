@@ -5,7 +5,7 @@ Este repositório contém a implementação dos Trabalhos Complementares da disc
 O repositório é dividido em duas partes, partindo de um modelo de uma "Caixa de Leite" modelada e texturizada por meio de fotos reais.
 
 ### Parte 1: Parser simples para `.obj` e Texturização em OpenGL (C)
-Foi desenvolvido um programa em linguagem C puro utilizando OpenGL. 
+Foi desenvolvido um programa em linguagem C utilizando OpenGL. 
 (como o objeto sera simples e definido, verificações de memoria, como tamanhos dos vetores, não foram feitas)
 
 ### Parte 2: Comparação Analítica (Iluminação Local vs. Iluminação Global)
